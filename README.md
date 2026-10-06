@@ -65,7 +65,7 @@ The broadcast live video processing market spans cloud-native encoding services 
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted strictly by GitHub Star Count (Descending)* 🌟
+*Sorted strictly by GitHub Stars_Count (Descending)* 🌟
 
 - **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)** [![Stars](https://img.shields.io/github/stars/ossrs/srs?style=social&color=white)](https://github.com/ossrs/srs/stargazers)  
   **Industrial-grade real-time video server**, MIT licensed. **26.1k stars** 🌟. High-performance, simple, and efficient video server supporting RTMP, WebRTC, HLS, HTTP-FLV, and SRT. Ideal for low-latency live streaming, WebRTC broadcasting, and high-concurrency video delivery. Written in C++. 🚀
@@ -123,7 +123,7 @@ Contributions from broadcast engineers and video streaming developers are welcom
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` maintaining standard tabular/markdown structure.
-3. 🔗 Provide verified platform links, starting pricing tiers, free tier specifications, exact star counts, and license information.
+3. 🔗 Provide verified platform links, starting pricing tiers, free tier specifications, exact Stars_Counts, and license information.
 4. 🚀 Submit a **Pull Request** detailing your contributions.
 
 ---
